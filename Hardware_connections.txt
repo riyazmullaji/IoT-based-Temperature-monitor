@@ -1,0 +1,27 @@
+Components:
+
+Bolt IoT Wi-Fi Module
+LM35 Temperature Sensor
+Breadboard
+Jumper wires
+Power Supply (e.g., battery or adapter)
+Connections:
+
+Power Supply:
+
+Connect the positive terminal of your power supply to the red "VCC" rail on the breadboard.
+Connect the negative terminal of your power supply to the blue "GND" rail on the breadboard.
+Bolt Module:
+
+Connect the VCC pin of the Bolt module to the red "VCC" rail on the breadboard.
+Connect the GND pin of the Bolt module to the blue "GND" rail on the breadboard.
+Ensure other pins of the Bolt module are not connected to anything at this stage.
+LM35 Sensor:
+
+Connect the VCC pin of the LM35 sensor to the red "VCC" rail on the breadboard.
+Connect the GND pin of the LM35 sensor to the blue "GND" rail on the breadboard.
+Connect the output pin of the LM35 sensor to an analog input pin of the Bolt module (e.g., A0). The specific pin may vary depending on your Bolt model. Refer to the Bolt documentation for available analog pins.
+Double-check connections:
+
+Ensure all connections are secure and wires are not touching each other.
+Verify the positive and negative terminals of the power supply are connected correctly.
